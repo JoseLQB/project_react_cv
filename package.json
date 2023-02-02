@@ -20,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeloy": "npm run build",
+    "deloy": "gh-pages -d build -r https://$GH_TOKEN@github.com/JoseLQB.github.io/project_react_cv"
   },
   "eslintConfig": {
     "extends": [
@@ -42,5 +44,6 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "homepage": "https://JoseLQB.github.io/project_react_cv"
 }
