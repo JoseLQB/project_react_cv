@@ -2,6 +2,7 @@
   "name": "my-cv-ts",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://JoseLQB.github.io/project_react_cv/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -22,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeloy": "npm run build",
-    "deploy": "gh-pages -d build -r https://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@github.com/JoseLQB.github.io/project_react_cv"
+    "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/JoseLQB.github.io/project_react_cv"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +45,5 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  },
-  "homepage": "https://JoseLQB.github.io/project_react_cv"
+  }
 }
