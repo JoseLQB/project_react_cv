@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeloy": "npm run build",
-    "deloy": "gh-pages -d build -r https://$GH_TOKEN@github.com/JoseLQB.github.io/project_react_cv"
+    "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/JoseLQB.github.io/project_react_cv"
   },
   "eslintConfig": {
     "extends": [
