@@ -1,7 +1,7 @@
 {
-  "main.css": "/project_react_cv/build/static/css/main.bc36846d.chunk.css",
-  "main.js": "/project_react_cv/build/static/js/main.48211454.chunk.js",
-  "main.js.map": "/project_react_cv/build/static/js/main.48211454.chunk.js.map",
+  "main.css": "/project_react_cv/build/static/css/main.e2727223.chunk.css",
+  "main.js": "/project_react_cv/build/static/js/main.78af7ad9.chunk.js",
+  "main.js.map": "/project_react_cv/build/static/js/main.78af7ad9.chunk.js.map",
   "static/js/1.4587b355.chunk.js": "/project_react_cv/build/static/js/1.4587b355.chunk.js",
   "static/js/1.4587b355.chunk.js.map": "/project_react_cv/build/static/js/1.4587b355.chunk.js.map",
   "static/js/2.6422faee.chunk.js": "/project_react_cv/build/static/js/2.6422faee.chunk.js",
@@ -9,8 +9,8 @@
   "runtime~main.js": "/project_react_cv/build/static/js/runtime~main.674f4f36.js",
   "runtime~main.js.map": "/project_react_cv/build/static/js/runtime~main.674f4f36.js.map",
   "static/media/logo.svg": "/project_react_cv/build/static/media/logo.06e73328.svg",
-  "static/css/main.bc36846d.chunk.css.map": "/project_react_cv/build/static/css/main.bc36846d.chunk.css.map",
+  "static/css/main.e2727223.chunk.css.map": "/project_react_cv/build/static/css/main.e2727223.chunk.css.map",
   "index.html": "/project_react_cv/build/index.html",
-  "precache-manifest.f1824f211b8cae4a4e1a65fab9717e66.js": "/project_react_cv/build/precache-manifest.f1824f211b8cae4a4e1a65fab9717e66.js",
+  "precache-manifest.45f3cdd34aaf540b66ffedfd8b9a2be1.js": "/project_react_cv/build/precache-manifest.45f3cdd34aaf540b66ffedfd8b9a2be1.js",
   "service-worker.js": "/project_react_cv/build/service-worker.js"
 }
